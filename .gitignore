@@ -1,0 +1,9 @@
+postgresql/
+etc/odoo-server.log
+etc/addons/
+etc/sessions/
+etc/filestore/
+addons/Autobox/
+addons/customer_qr
+addons/lixie_mi_autobox_app/
+addons/sync_abnet
